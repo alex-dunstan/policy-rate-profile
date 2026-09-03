@@ -1,53 +1,53 @@
 {
-  "generated_at": "2026-08-28T03:53:50+00:00",
-  "latest_source_month": "2026-07",
+  "generated_at": "2026-09-03T21:58:30+00:00",
+  "latest_source_month": "2026-08",
   "selected_theme": "editorial",
   "series": {
     "AU": {
       "label": "RBA",
       "latest_month": "2026-07",
       "latest_value": 4.35,
-      "observations": 48,
+      "observations": 47,
       "reference_area": "Australia"
     },
     "CA": {
       "label": "BoC",
-      "latest_month": "2026-07",
+      "latest_month": "2026-08",
       "latest_value": 2.25,
       "observations": 48,
       "reference_area": "Canada"
     },
     "CN": {
       "label": "China LPR",
-      "latest_month": "2026-06",
+      "latest_month": "2026-08",
       "latest_value": 3.0,
-      "observations": 47,
+      "observations": 48,
       "reference_area": "China"
     },
     "GB": {
       "label": "BoE",
       "latest_month": "2026-07",
       "latest_value": 3.75,
-      "observations": 48,
+      "observations": 47,
       "reference_area": "United Kingdom"
     },
     "JP": {
       "label": "BoJ",
-      "latest_month": "2026-07",
+      "latest_month": "2026-08",
       "latest_value": 1.0,
       "observations": 48,
       "reference_area": "Japan"
     },
     "US": {
       "label": "Fed",
-      "latest_month": "2026-07",
+      "latest_month": "2026-08",
       "latest_value": 3.625,
       "observations": 48,
       "reference_area": "United States"
     },
     "XM": {
       "label": "ECB",
-      "latest_month": "2026-07",
+      "latest_month": "2026-08",
       "latest_value": 2.25,
       "observations": 48,
       "reference_area": "Euro area"
