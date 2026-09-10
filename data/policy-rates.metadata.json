@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-03T21:58:30+00:00",
+  "generated_at": "2026-09-10T22:01:54+00:00",
   "latest_source_month": "2026-08",
   "selected_theme": "editorial",
   "series": {
     "AU": {
       "label": "RBA",
-      "latest_month": "2026-07",
+      "latest_month": "2026-08",
       "latest_value": 4.35,
-      "observations": 47,
+      "observations": 48,
       "reference_area": "Australia"
     },
     "CA": {
@@ -26,9 +26,9 @@
     },
     "GB": {
       "label": "BoE",
-      "latest_month": "2026-07",
+      "latest_month": "2026-08",
       "latest_value": 3.75,
-      "observations": 47,
+      "observations": 48,
       "reference_area": "United Kingdom"
     },
     "JP": {
