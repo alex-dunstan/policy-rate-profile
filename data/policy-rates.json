@@ -4,13 +4,13 @@
     "subtitle": "Monthly end-of-period rates, percent per year",
     "title": "Policy Rates: Selected Central Banks"
   },
-  "generated_at": "2026-11-06T00:36:23+00:00",
+  "generated_at": "2026-11-13T00:46:15+00:00",
   "series": [
     {
       "code": "AU",
       "label": "RBA",
       "latest": {
-        "month": "2026-09",
+        "month": "2026-10",
         "value": 4.6
       },
       "reference_area": "Australia",
@@ -202,6 +202,10 @@
         },
         {
           "month": "2026-09",
+          "value": 4.6
+        },
+        {
+          "month": "2026-10",
           "value": 4.6
         }
       ]

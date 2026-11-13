@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-06T00:36:23+00:00",
+  "generated_at": "2026-11-13T00:46:15+00:00",
   "latest_source_month": "2026-10",
   "selected_theme": "editorial",
   "series": {
     "AU": {
       "label": "RBA",
-      "latest_month": "2026-09",
+      "latest_month": "2026-10",
       "latest_value": 4.6,
-      "observations": 47,
+      "observations": 48,
       "reference_area": "Australia"
     },
     "CA": {
